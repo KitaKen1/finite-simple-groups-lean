@@ -60,8 +60,13 @@ certificate policy, and external-data provenance for the `M11` proof.
 ## Lean4Web
 
 `FiniteSimpleGroupsLean4Web/M11Lean4Web.lean` is a standalone single-file
-version of the M11 proof. Copy it into Lean4Web to check the theorem statements
-and `#print axioms` output there.
+version of the M11 proof.
+
+Open it in Lean4Web:
+[M11Lean4Web.lean](https://live.lean-lang.org/#url=https%3A%2F%2Fraw.githubusercontent.com%2FKitaKen1%2Ffinite-simple-groups-lean%2Fmain%2FFiniteSimpleGroupsLean4Web%2FM11Lean4Web.lean)
+
+GitHub source:
+[M11Lean4Web.lean](https://github.com/KitaKen1/finite-simple-groups-lean/blob/main/FiniteSimpleGroupsLean4Web/M11Lean4Web.lean)
 
 ## AI Usage Disclosure
 The solution and code were developed with assistance from Codex 5.5 using xhigh reasoning and ChatGPT 5.5 Pro.
